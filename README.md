@@ -6,7 +6,7 @@
 
 <h1 align="center"> ¡Hey, qué tal! soy Erick Cáceres </h1>
 
-<h3 align="center">Full Stack Developer | Scrum Master | Diseñador UX/UI</h3>
+<p align="center">Full Stack Developer | Scrum Master | Diseñador UX/UI</p>
 <br>
 
 

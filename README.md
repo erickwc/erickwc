@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/38bbf9e8-9a22-40dd-a4a5-c695007e3797" width="300px" />
+  <img src="https://github.com/user-attachments/assets/38bbf9e8-9a22-40dd-a4a5-c695007e3797" width="250px" />
 </p>
 
 <h1 align="center"> ¡Hey, qué tal! soy Erick Cáceres </h1>

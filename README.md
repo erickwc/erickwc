@@ -1,9 +1,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db3b59a9-20ba-4f8a-9384-20cdf51a44ce" width="250px" />
+  <img src="https://github.com/user-attachments/assets/38bbf9e8-9a22-40dd-a4a5-c695007e3797" width="300px" />
 </p>
-
 
 <h1 align="center">¡Hey, qué tal! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> soy Erick Cáceres 👨‍💻</h1>
 <h3 align="center">Full Stack Developer | Scrum Master | Diseñador UX/UI</h3>

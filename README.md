@@ -7,14 +7,21 @@
 <h1 align="center"> ¡Hey, qué tal! soy Erick Cáceres </h1>
 
 <p align="center">Full Stack Developer | Scrum Master | Diseñador UX/UI</p>
-<br>
+
 
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,ps,js,cs,dotnet,mysql,git,github,azure,vscode,visualstudio,discord" />
-  
 </p>
+
+<p align="center">
+  Estudiante de Técnico en Ingeniería en Desarrollo de Software, con 4 años de formación académica y más de 3 años de experiencia práctica.  
+  He liderado todos los proyectos en los que he trabajado, siempre comprometido con la entrega de productos de alta calidad.
+</p>
+
+
+
 
 
 <!--

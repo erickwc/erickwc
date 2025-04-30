@@ -17,7 +17,7 @@
 
 <p align="center">
   Estudiante de Técnico en Ingeniería en Desarrollo de Software, con 4 años de formación académica y más de 3 años de experiencia práctica.  
-  He liderado todos los proyectos en los que he trabajado, siempre comprometido con la entrega de productos de alta calidad.
+  He Liderando todos y cada uno de los proyectos en los que he trabajado, siempre comprometido con la entrega de software de alta calidad.
 </p>
 
 <p align="center">
